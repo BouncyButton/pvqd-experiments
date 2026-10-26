@@ -1,0 +1,3948 @@
+{
+  "BL01": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 2,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0
+    ]
+  },
+  "BL02": {
+    "grade_mean": 2.5,
+    "category": "Moderate",
+    "row": 3,
+    "ratings": [
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      2.0,
+      3.0
+    ]
+  },
+  "BL03": {
+    "grade_mean": 2.3333333333333335,
+    "category": "Moderate",
+    "row": 4,
+    "ratings": [
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  "BL04": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 5,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "BL05": {
+    "grade_mean": 1.5,
+    "category": "Mild",
+    "row": 6,
+    "ratings": [
+      1.0,
+      2.0,
+      2.0,
+      1.0,
+      1.0,
+      2.0
+    ]
+  },
+  "BL06": {
+    "grade_mean": 3.0,
+    "category": "Severe",
+    "row": 7,
+    "ratings": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  "BL07": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 8,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  "BL08": {
+    "grade_mean": 0.3333333333333333,
+    "category": "Normal",
+    "row": 9,
+    "ratings": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  "BL09": {
+    "grade_mean": 1.3333333333333333,
+    "category": "Mild",
+    "row": 10,
+    "ratings": [
+      2.0,
+      1.0,
+      2.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "BL10": {
+    "grade_mean": 0.3333333333333333,
+    "category": "Normal",
+    "row": 11,
+    "ratings": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  "BL11": {
+    "grade_mean": 1.1666666666666667,
+    "category": "Mild",
+    "row": 12,
+    "ratings": [
+      1.0,
+      2.0,
+      1.0,
+      0.0,
+      2.0,
+      1.0
+    ]
+  },
+  "BL12": {
+    "grade_mean": 1.8333333333333333,
+    "category": "Moderate",
+    "row": 13,
+    "ratings": [
+      1.0,
+      2.0,
+      2.0,
+      1.0,
+      3.0,
+      2.0
+    ]
+  },
+  "BL13": {
+    "grade_mean": 1.1666666666666667,
+    "category": "Mild",
+    "row": 14,
+    "ratings": [
+      1.0,
+      2.0,
+      0.0,
+      0.0,
+      2.0,
+      2.0
+    ]
+  },
+  "BL14": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 15,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "BL16": {
+    "grade_mean": 1.0,
+    "category": "Mild",
+    "row": 16,
+    "ratings": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "BL17": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 17,
+    "ratings": [
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  "BL18": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 18,
+    "ratings": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "BL19": {
+    "grade_mean": 1.6666666666666667,
+    "category": "Moderate",
+    "row": 19,
+    "ratings": [
+      1.0,
+      2.0,
+      2.0,
+      1.0,
+      2.0,
+      2.0
+    ]
+  },
+  "BL20": {
+    "grade_mean": 1.3333333333333333,
+    "category": "Mild",
+    "row": 20,
+    "ratings": [
+      1.0,
+      2.0,
+      1.0,
+      0.0,
+      2.0,
+      2.0
+    ]
+  },
+  "BL21": {
+    "grade_mean": 1.3333333333333333,
+    "category": "Mild",
+    "row": 21,
+    "ratings": [
+      1.0,
+      2.0,
+      1.0,
+      1.0,
+      1.0,
+      2.0
+    ]
+  },
+  "LA10001": {
+    "grade_mean": 1.3333333333333333,
+    "category": "Mild",
+    "row": 22,
+    "ratings": [
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      2.0,
+      1.0
+    ]
+  },
+  "LA1001": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 23,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "LA1002": {
+    "grade_mean": 0.3333333333333333,
+    "category": "Normal",
+    "row": 24,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ]
+  },
+  "LA1003": {
+    "grade_mean": 1.0,
+    "category": "Mild",
+    "row": 25,
+    "ratings": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "LA1005": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 26,
+    "ratings": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "LA1009": {
+    "grade_mean": 2.5,
+    "category": "Moderate",
+    "row": 27,
+    "ratings": [
+      3.0,
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0
+    ]
+  },
+  "LA2001": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 28,
+    "ratings": [
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  "LA2004": {
+    "grade_mean": 2.0,
+    "category": "Moderate",
+    "row": 29,
+    "ratings": [
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  "LA2007": {
+    "grade_mean": 1.1666666666666667,
+    "category": "Mild",
+    "row": 30,
+    "ratings": [
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      2.0,
+      0.0
+    ]
+  },
+  "LA5003": {
+    "grade_mean": 3.0,
+    "category": "Severe",
+    "row": 31,
+    "ratings": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  "LA7003": {
+    "grade_mean": 2.0,
+    "category": "Moderate",
+    "row": 32,
+    "ratings": [
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      1.0
+    ]
+  },
+  "LA7004": {
+    "grade_mean": 0.8333333333333334,
+    "category": "Mild",
+    "row": 33,
+    "ratings": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "LA7005": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 34,
+    "ratings": [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  "LA7006": {
+    "grade_mean": 1.6666666666666667,
+    "category": "Moderate",
+    "row": 35,
+    "ratings": [
+      1.0,
+      2.0,
+      2.0,
+      1.0,
+      2.0,
+      2.0
+    ]
+  },
+  "LA7007": {
+    "grade_mean": 0.8333333333333334,
+    "category": "Mild",
+    "row": 36,
+    "ratings": [
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      2.0
+    ]
+  },
+  "LA7008": {
+    "grade_mean": 2.0,
+    "category": "Moderate",
+    "row": 37,
+    "ratings": [
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  "LA7009": {
+    "grade_mean": 1.6666666666666667,
+    "category": "Moderate",
+    "row": 38,
+    "ratings": [
+      1.0,
+      2.0,
+      2.0,
+      1.0,
+      2.0,
+      2.0
+    ]
+  },
+  "LA7011": {
+    "grade_mean": 2.0,
+    "category": "Moderate",
+    "row": 39,
+    "ratings": [
+      2.0,
+      3.0,
+      2.0,
+      1.0,
+      2.0,
+      2.0
+    ]
+  },
+  "LA7012": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 40,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  "LA8001": {
+    "grade_mean": 1.5,
+    "category": "Mild",
+    "row": 41,
+    "ratings": [
+      1.0,
+      2.0,
+      1.0,
+      1.0,
+      2.0,
+      2.0
+    ]
+  },
+  "LA8002": {
+    "grade_mean": 0.8333333333333334,
+    "category": "Mild",
+    "row": 42,
+    "ratings": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "LA9002": {
+    "grade_mean": 1.0,
+    "category": "Mild",
+    "row": 43,
+    "ratings": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "LA90026": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 44,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "LA9003": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 45,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "LA9004": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 46,
+    "ratings": [
+      1.0,
+      2.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "LA9006": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 47,
+    "ratings": [
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "LA9007": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 48,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0
+    ]
+  },
+  "LA9008": {
+    "grade_mean": 1.3333333333333333,
+    "category": "Mild",
+    "row": 49,
+    "ratings": [
+      2.0,
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      1.0
+    ]
+  },
+  "LA9009": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 50,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0
+    ]
+  },
+  "LA9010": {
+    "grade_mean": 1.3333333333333333,
+    "category": "Mild",
+    "row": 51,
+    "ratings": [
+      2.0,
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      1.0
+    ]
+  },
+  "LA9011": {
+    "grade_mean": 0.3333333333333333,
+    "category": "Normal",
+    "row": 52,
+    "ratings": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  "LA9012": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 53,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "LA9013": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 54,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "LA9014": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 55,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "LA9015": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 56,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "LA9016": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 57,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "LA9017": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 58,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "LA9018": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 59,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "LA9019": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 60,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "LA9020": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 61,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "LA9021": {
+    "grade_mean": 0.3333333333333333,
+    "category": "Normal",
+    "row": 62,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "LA9022": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 63,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "LA9023": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 64,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  "LA9024": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 65,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "LA9025": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 66,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "LA9026": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 67,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "LA9027": {
+    "grade_mean": 1.0,
+    "category": "Mild",
+    "row": 68,
+    "ratings": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "NYU1001": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 69,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "NYU1002": {
+    "grade_mean": 2.8333333333333335,
+    "category": "Severe",
+    "row": 70,
+    "ratings": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  "NYU1003": {
+    "grade_mean": 0.8333333333333334,
+    "category": "Mild",
+    "row": 71,
+    "ratings": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "NYU1004": {
+    "grade_mean": 2.1666666666666665,
+    "category": "Moderate",
+    "row": 72,
+    "ratings": [
+      3.0,
+      3.0,
+      2.0,
+      1.0,
+      2.0,
+      2.0
+    ]
+  },
+  "NYU1005": {
+    "grade_mean": 2.3333333333333335,
+    "category": "Moderate",
+    "row": 73,
+    "ratings": [
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0
+    ]
+  },
+  "NYU1006": {
+    "grade_mean": 1.0,
+    "category": "Mild",
+    "row": 74,
+    "ratings": [
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      2.0,
+      1.0
+    ]
+  },
+  "NYU1007": {
+    "grade_mean": 0.3333333333333333,
+    "category": "Normal",
+    "row": 75,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      2.0,
+      0.0
+    ]
+  },
+  "NYU1008": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 76,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "NYU1009": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 77,
+    "ratings": [
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "NYU1010": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 78,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "NYU1011": {
+    "grade_mean": 1.0,
+    "category": "Mild",
+    "row": 79,
+    "ratings": [
+      2.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      2.0
+    ]
+  },
+  "NYU1012": {
+    "grade_mean": 0.8333333333333334,
+    "category": "Mild",
+    "row": 80,
+    "ratings": [
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "NYU1013": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 81,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "NYU1014": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 82,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "NYU1015": {
+    "grade_mean": 2.0,
+    "category": "Moderate",
+    "row": 83,
+    "ratings": [
+      3.0,
+      1.0,
+      2.0,
+      3.0,
+      1.0,
+      2.0
+    ]
+  },
+  "NYU1016": {
+    "grade_mean": 1.6666666666666667,
+    "category": "Moderate",
+    "row": 84,
+    "ratings": [
+      1.0,
+      2.0,
+      2.0,
+      1.0,
+      2.0,
+      2.0
+    ]
+  },
+  "NYU1017": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 85,
+    "ratings": [
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0
+    ]
+  },
+  "NYU1018": {
+    "grade_mean": 2.3333333333333335,
+    "category": "Moderate",
+    "row": 86,
+    "ratings": [
+      3.0,
+      3.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  "NYU1019": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 87,
+    "ratings": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0
+    ]
+  },
+  "NYU1020": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 88,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  "NYU1022": {
+    "grade_mean": 3.0,
+    "category": "Severe",
+    "row": 89,
+    "ratings": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  "NYU1023": {
+    "grade_mean": 1.0,
+    "category": "Mild",
+    "row": 90,
+    "ratings": [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      2.0,
+      1.0
+    ]
+  },
+  "NYU1024": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 91,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "NYU1025": {
+    "grade_mean": 3.0,
+    "category": "Severe",
+    "row": 92,
+    "ratings": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  "NYU1026": {
+    "grade_mean": 1.3333333333333333,
+    "category": "Mild",
+    "row": 93,
+    "ratings": [
+      2.0,
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      1.0
+    ]
+  },
+  "NYU1027": {
+    "grade_mean": 0.3333333333333333,
+    "category": "Normal",
+    "row": 94,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "NYU1028": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 95,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "NYU1030": {
+    "grade_mean": 1.5,
+    "category": "Mild",
+    "row": 96,
+    "ratings": [
+      2.0,
+      1.0,
+      2.0,
+      2.0,
+      1.0,
+      1.0
+    ]
+  },
+  "PT001": {
+    "grade_mean": 3.0,
+    "category": "Severe",
+    "row": 97,
+    "ratings": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  "PT002": {
+    "grade_mean": 1.5,
+    "category": "Mild",
+    "row": 98,
+    "ratings": [
+      1.0,
+      2.0,
+      1.0,
+      1.0,
+      2.0,
+      2.0
+    ]
+  },
+  "PT003": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 99,
+    "ratings": [
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT004": {
+    "grade_mean": 3.0,
+    "category": "Severe",
+    "row": 100,
+    "ratings": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  "PT005": {
+    "grade_mean": 0.3333333333333333,
+    "category": "Normal",
+    "row": 101,
+    "ratings": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT006": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 102,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT007": {
+    "grade_mean": 0.3333333333333333,
+    "category": "Normal",
+    "row": 103,
+    "ratings": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT008": {
+    "grade_mean": 3.0,
+    "category": "Severe",
+    "row": 104,
+    "ratings": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  "PT009": {
+    "grade_mean": 1.6666666666666667,
+    "category": "Moderate",
+    "row": 105,
+    "ratings": [
+      1.0,
+      2.0,
+      2.0,
+      1.0,
+      2.0,
+      2.0
+    ]
+  },
+  "PT010": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 106,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT011": {
+    "grade_mean": 2.6666666666666665,
+    "category": "Severe",
+    "row": 107,
+    "ratings": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0
+    ]
+  },
+  "PT012": {
+    "grade_mean": 2.1666666666666665,
+    "category": "Moderate",
+    "row": 108,
+    "ratings": [
+      3.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  "PT013": {
+    "grade_mean": 2.5,
+    "category": "Moderate",
+    "row": 109,
+    "ratings": [
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0
+    ]
+  },
+  "PT014": {
+    "grade_mean": 3.0,
+    "category": "Severe",
+    "row": 110,
+    "ratings": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  "PT015": {
+    "grade_mean": 3.0,
+    "category": "Severe",
+    "row": 111,
+    "ratings": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  "PT016": {
+    "grade_mean": 1.1666666666666667,
+    "category": "Mild",
+    "row": 112,
+    "ratings": [
+      2.0,
+      2.0,
+      2.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT017": {
+    "grade_mean": 2.6666666666666665,
+    "category": "Severe",
+    "row": 113,
+    "ratings": [
+      2.0,
+      2.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  "PT018": {
+    "grade_mean": 1.6666666666666667,
+    "category": "Moderate",
+    "row": 114,
+    "ratings": [
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      0.0,
+      2.0
+    ]
+  },
+  "PT019": {
+    "grade_mean": 3.0,
+    "category": "Severe",
+    "row": 115,
+    "ratings": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  "PT020": {
+    "grade_mean": 2.6666666666666665,
+    "category": "Severe",
+    "row": 116,
+    "ratings": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0
+    ]
+  },
+  "PT022": {
+    "grade_mean": 2.0,
+    "category": "Moderate",
+    "row": 117,
+    "ratings": [
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  "PT023": {
+    "grade_mean": 0.3333333333333333,
+    "category": "Normal",
+    "row": 118,
+    "ratings": [
+      0.0,
+      2.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT024": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 119,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT025": {
+    "grade_mean": 1.5,
+    "category": "Mild",
+    "row": 120,
+    "ratings": [
+      3.0,
+      1.0,
+      0.0,
+      2.0,
+      2.0,
+      1.0
+    ]
+  },
+  "PT026": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 121,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      2.0,
+      1.0,
+      0.0
+    ]
+  },
+  "PT027": {
+    "grade_mean": 0.8333333333333334,
+    "category": "Mild",
+    "row": 122,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      2.0,
+      1.0,
+      1.0
+    ]
+  },
+  "PT028": {
+    "grade_mean": 1.1666666666666667,
+    "category": "Mild",
+    "row": 123,
+    "ratings": [
+      2.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "PT029": {
+    "grade_mean": 1.0,
+    "category": "Mild",
+    "row": 124,
+    "ratings": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "PT030": {
+    "grade_mean": 1.8333333333333333,
+    "category": "Moderate",
+    "row": 125,
+    "ratings": [
+      2.0,
+      2.0,
+      1.0,
+      3.0,
+      2.0,
+      1.0
+    ]
+  },
+  "PT031": {
+    "grade_mean": 1.0,
+    "category": "Mild",
+    "row": 126,
+    "ratings": [
+      2.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "PT032": {
+    "grade_mean": 3.0,
+    "category": "Severe",
+    "row": 127,
+    "ratings": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  "PT033": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 128,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0
+    ]
+  },
+  "PT034": {
+    "grade_mean": 2.5,
+    "category": "Moderate",
+    "row": 129,
+    "ratings": [
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      3.0
+    ]
+  },
+  "PT036": {
+    "grade_mean": 2.6666666666666665,
+    "category": "Severe",
+    "row": 130,
+    "ratings": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0
+    ]
+  },
+  "PT037": {
+    "grade_mean": 1.5,
+    "category": "Mild",
+    "row": 131,
+    "ratings": [
+      2.0,
+      1.0,
+      1.0,
+      2.0,
+      2.0,
+      1.0
+    ]
+  },
+  "PT038": {
+    "grade_mean": 1.3333333333333333,
+    "category": "Mild",
+    "row": 132,
+    "ratings": [
+      2.0,
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      1.0
+    ]
+  },
+  "PT039": {
+    "grade_mean": 1.5,
+    "category": "Mild",
+    "row": 133,
+    "ratings": [
+      2.0,
+      2.0,
+      1.0,
+      2.0,
+      1.0,
+      1.0
+    ]
+  },
+  "PT040": {
+    "grade_mean": 1.0,
+    "category": "Mild",
+    "row": 134,
+    "ratings": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "PT041": {
+    "grade_mean": 2.8333333333333335,
+    "category": "Severe",
+    "row": 135,
+    "ratings": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      2.0
+    ]
+  },
+  "PT042": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 136,
+    "ratings": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0
+    ]
+  },
+  "PT043": {
+    "grade_mean": 1.5,
+    "category": "Mild",
+    "row": 137,
+    "ratings": [
+      2.0,
+      1.0,
+      1.0,
+      2.0,
+      2.0,
+      1.0
+    ]
+  },
+  "PT044": {
+    "grade_mean": 2.6666666666666665,
+    "category": "Severe",
+    "row": 138,
+    "ratings": [
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  "PT045": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 139,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT046": {
+    "grade_mean": 3.0,
+    "category": "Severe",
+    "row": 140,
+    "ratings": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  "PT047": {
+    "grade_mean": 1.6666666666666667,
+    "category": "Moderate",
+    "row": 141,
+    "ratings": [
+      2.0,
+      2.0,
+      1.0,
+      2.0,
+      2.0,
+      1.0
+    ]
+  },
+  "PT048": {
+    "grade_mean": 2.3333333333333335,
+    "category": "Moderate",
+    "row": 142,
+    "ratings": [
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0
+    ]
+  },
+  "PT049": {
+    "grade_mean": 1.5,
+    "category": "Mild",
+    "row": 143,
+    "ratings": [
+      2.0,
+      2.0,
+      2.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "PT050": {
+    "grade_mean": 3.0,
+    "category": "Severe",
+    "row": 144,
+    "ratings": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  "PT051": {
+    "grade_mean": 2.1666666666666665,
+    "category": "Moderate",
+    "row": 145,
+    "ratings": [
+      2.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0
+    ]
+  },
+  "PT052": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 146,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT053": {
+    "grade_mean": 2.0,
+    "category": "Moderate",
+    "row": 147,
+    "ratings": [
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  "PT054": {
+    "grade_mean": 2.6666666666666665,
+    "category": "Severe",
+    "row": 148,
+    "ratings": [
+      3.0,
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0
+    ]
+  },
+  "PT055": {
+    "grade_mean": 2.6666666666666665,
+    "category": "Severe",
+    "row": 149,
+    "ratings": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0
+    ]
+  },
+  "PT056": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 150,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT057": {
+    "grade_mean": 1.6666666666666667,
+    "category": "Moderate",
+    "row": 151,
+    "ratings": [
+      2.0,
+      1.0,
+      2.0,
+      2.0,
+      1.0,
+      2.0
+    ]
+  },
+  "PT058": {
+    "grade_mean": 3.0,
+    "category": "Severe",
+    "row": 152,
+    "ratings": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  "PT060": {
+    "grade_mean": 1.3333333333333333,
+    "category": "Mild",
+    "row": 153,
+    "ratings": [
+      2.0,
+      1.0,
+      0.0,
+      2.0,
+      2.0,
+      1.0
+    ]
+  },
+  "PT061": {
+    "grade_mean": 1.8333333333333333,
+    "category": "Moderate",
+    "row": 154,
+    "ratings": [
+      1.0,
+      1.0,
+      3.0,
+      2.0,
+      1.0,
+      3.0
+    ]
+  },
+  "PT062": {
+    "grade_mean": 0.3333333333333333,
+    "category": "Normal",
+    "row": 155,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT063": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 156,
+    "ratings": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT064": {
+    "grade_mean": 2.6666666666666665,
+    "category": "Severe",
+    "row": 157,
+    "ratings": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0
+    ]
+  },
+  "PT065": {
+    "grade_mean": 2.6666666666666665,
+    "category": "Severe",
+    "row": 158,
+    "ratings": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0
+    ]
+  },
+  "PT066 ": {
+    "grade_mean": 2.0,
+    "category": "Moderate",
+    "row": 159,
+    "ratings": [
+      2.0,
+      1.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0
+    ]
+  },
+  "PT067 ": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 160,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      2.0
+    ]
+  },
+  "PT068": {
+    "grade_mean": 0.8333333333333334,
+    "category": "Mild",
+    "row": 161,
+    "ratings": [
+      2.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT069": {
+    "grade_mean": 1.3333333333333333,
+    "category": "Mild",
+    "row": 162,
+    "ratings": [
+      2.0,
+      0.0,
+      2.0,
+      2.0,
+      1.0,
+      1.0
+    ]
+  },
+  "PT070": {
+    "grade_mean": 0.3333333333333333,
+    "category": "Normal",
+    "row": 163,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT071": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 164,
+    "ratings": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT072": {
+    "grade_mean": 0.8333333333333334,
+    "category": "Mild",
+    "row": 165,
+    "ratings": [
+      1.0,
+      0.0,
+      1.0,
+      2.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT073": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 166,
+    "ratings": [
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT074": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 167,
+    "ratings": [
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT075": {
+    "grade_mean": 1.1666666666666667,
+    "category": "Mild",
+    "row": 168,
+    "ratings": [
+      1.0,
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      1.0
+    ]
+  },
+  "PT076": {
+    "grade_mean": 1.8333333333333333,
+    "category": "Moderate",
+    "row": 169,
+    "ratings": [
+      2.0,
+      1.0,
+      2.0,
+      3.0,
+      1.0,
+      2.0
+    ]
+  },
+  "PT077": {
+    "grade_mean": 1.1666666666666667,
+    "category": "Mild",
+    "row": 170,
+    "ratings": [
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "PT078": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 171,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT079": {
+    "grade_mean": 1.5,
+    "category": "Mild",
+    "row": 172,
+    "ratings": [
+      2.0,
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      2.0
+    ]
+  },
+  "PT080": {
+    "grade_mean": 0.8333333333333334,
+    "category": "Mild",
+    "row": 173,
+    "ratings": [
+      1.0,
+      0.0,
+      1.0,
+      2.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT081": {
+    "grade_mean": 2.6666666666666665,
+    "category": "Severe",
+    "row": 174,
+    "ratings": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0
+    ]
+  },
+  "PT082": {
+    "grade_mean": 1.6666666666666667,
+    "category": "Moderate",
+    "row": 175,
+    "ratings": [
+      2.0,
+      1.0,
+      2.0,
+      2.0,
+      1.0,
+      2.0
+    ]
+  },
+  "PT083": {
+    "grade_mean": 0.3333333333333333,
+    "category": "Normal",
+    "row": 176,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT084": {
+    "grade_mean": 2.6666666666666665,
+    "category": "Severe",
+    "row": 177,
+    "ratings": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0
+    ]
+  },
+  "PT085": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 178,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      3.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT086": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 179,
+    "ratings": [
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT087": {
+    "grade_mean": 2.6666666666666665,
+    "category": "Severe",
+    "row": 180,
+    "ratings": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0
+    ]
+  },
+  "PT088": {
+    "grade_mean": 2.6666666666666665,
+    "category": "Severe",
+    "row": 181,
+    "ratings": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0
+    ]
+  },
+  "PT089": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 182,
+    "ratings": [
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT090": {
+    "grade_mean": 0.3333333333333333,
+    "category": "Normal",
+    "row": 183,
+    "ratings": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT091": {
+    "grade_mean": 2.0,
+    "category": "Moderate",
+    "row": 184,
+    "ratings": [
+      3.0,
+      1.0,
+      2.0,
+      3.0,
+      1.0,
+      2.0
+    ]
+  },
+  "PT092": {
+    "grade_mean": 1.1666666666666667,
+    "category": "Mild",
+    "row": 185,
+    "ratings": [
+      1.0,
+      0.0,
+      2.0,
+      2.0,
+      0.0,
+      2.0
+    ]
+  },
+  "PT093": {
+    "grade_mean": 0.3333333333333333,
+    "category": "Normal",
+    "row": 186,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT094": {
+    "grade_mean": 2.3333333333333335,
+    "category": "Moderate",
+    "row": 187,
+    "ratings": [
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0
+    ]
+  },
+  "PT095": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 188,
+    "ratings": [
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT096": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 189,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT097": {
+    "grade_mean": 2.6666666666666665,
+    "category": "Severe",
+    "row": 190,
+    "ratings": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0
+    ]
+  },
+  "PT098": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 191,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT099": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 192,
+    "ratings": [
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT100": {
+    "grade_mean": 1.3333333333333333,
+    "category": "Mild",
+    "row": 193,
+    "ratings": [
+      2.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      2.0
+    ]
+  },
+  "PT101": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 194,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT102": {
+    "grade_mean": 1.1666666666666667,
+    "category": "Mild",
+    "row": 195,
+    "ratings": [
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      0.0,
+      2.0
+    ]
+  },
+  "PT103": {
+    "grade_mean": 1.6666666666666667,
+    "category": "Moderate",
+    "row": 196,
+    "ratings": [
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      1.0,
+      2.0
+    ]
+  },
+  "PT104": {
+    "grade_mean": 2.0,
+    "category": "Moderate",
+    "row": 197,
+    "ratings": [
+      3.0,
+      1.0,
+      2.0,
+      3.0,
+      1.0,
+      2.0
+    ]
+  },
+  "PT106": {
+    "grade_mean": 1.6666666666666667,
+    "category": "Moderate",
+    "row": 198,
+    "ratings": [
+      2.0,
+      1.0,
+      2.0,
+      2.0,
+      1.0,
+      2.0
+    ]
+  },
+  "PT107": {
+    "grade_mean": 0.8333333333333334,
+    "category": "Mild",
+    "row": 199,
+    "ratings": [
+      2.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT108": {
+    "grade_mean": 2.0,
+    "category": "Moderate",
+    "row": 200,
+    "ratings": [
+      1.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0
+    ]
+  },
+  "PT109": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 201,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT110": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 202,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0
+    ]
+  },
+  "PT111": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 203,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT112": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 204,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT113": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 205,
+    "ratings": [
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT114": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 206,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT115": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 207,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  "PT116": {
+    "grade_mean": 1.1666666666666667,
+    "category": "Mild",
+    "row": 208,
+    "ratings": [
+      1.0,
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      1.0
+    ]
+  },
+  "PT117": {
+    "grade_mean": 2.1666666666666665,
+    "category": "Moderate",
+    "row": 209,
+    "ratings": [
+      3.0,
+      1.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0
+    ]
+  },
+  "PT118": {
+    "grade_mean": 2.8333333333333335,
+    "category": "Severe",
+    "row": 210,
+    "ratings": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  "PT119": {
+    "grade_mean": 1.3333333333333333,
+    "category": "Mild",
+    "row": 211,
+    "ratings": [
+      2.0,
+      1.0,
+      2.0,
+      2.0,
+      0.0,
+      1.0
+    ]
+  },
+  "PT120": {
+    "grade_mean": 2.6666666666666665,
+    "category": "Severe",
+    "row": 212,
+    "ratings": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0
+    ]
+  },
+  "PT121": {
+    "grade_mean": 2.3333333333333335,
+    "category": "Moderate",
+    "row": 213,
+    "ratings": [
+      3.0,
+      1.0,
+      2.0,
+      3.0,
+      2.0,
+      3.0
+    ]
+  },
+  "PT122": {
+    "grade_mean": 2.0,
+    "category": "Moderate",
+    "row": 214,
+    "ratings": [
+      3.0,
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  "PT123": {
+    "grade_mean": 1.1666666666666667,
+    "category": "Mild",
+    "row": 215,
+    "ratings": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      2.0
+    ]
+  },
+  "PT124": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 216,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT125": {
+    "grade_mean": 1.5,
+    "category": "Mild",
+    "row": 217,
+    "ratings": [
+      2.0,
+      1.0,
+      2.0,
+      2.0,
+      1.0,
+      1.0
+    ]
+  },
+  "PT126": {
+    "grade_mean": 2.6666666666666665,
+    "category": "Severe",
+    "row": 218,
+    "ratings": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0
+    ]
+  },
+  "PT127": {
+    "grade_mean": 2.3333333333333335,
+    "category": "Moderate",
+    "row": 219,
+    "ratings": [
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0
+    ]
+  },
+  "PT128": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 220,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT129": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 221,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT130": {
+    "grade_mean": 2.0,
+    "category": "Moderate",
+    "row": 222,
+    "ratings": [
+      3.0,
+      1.0,
+      2.0,
+      3.0,
+      1.0,
+      2.0
+    ]
+  },
+  "PT131": {
+    "grade_mean": 1.0,
+    "category": "Mild",
+    "row": 223,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      2.0,
+      1.0,
+      1.0
+    ]
+  },
+  "PT132": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 224,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ]
+  },
+  "PT133": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 225,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT134": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 226,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "PT135": {
+    "grade_mean": 1.0,
+    "category": "Mild",
+    "row": 227,
+    "ratings": [
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      2.0
+    ]
+  },
+  "PT136": {
+    "grade_mean": 2.6666666666666665,
+    "category": "Severe",
+    "row": 228,
+    "ratings": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0
+    ]
+  },
+  "PT137": {
+    "grade_mean": 0.8333333333333334,
+    "category": "Mild",
+    "row": 229,
+    "ratings": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ1002": {
+    "grade_mean": 1.0,
+    "category": "Mild",
+    "row": 230,
+    "ratings": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "SJ1003 ": {
+    "grade_mean": 0.3333333333333333,
+    "category": "Normal",
+    "row": 231,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ1004": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 232,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "SJ2001": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 233,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ2002 ": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 234,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ2003 ": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 235,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ2005": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 236,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ2006": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 237,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ2007 ": {
+    "grade_mean": 0.8333333333333334,
+    "category": "Mild",
+    "row": 238,
+    "ratings": [
+      2.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "SJ2008 ": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 239,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ2009": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 240,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ2010": {
+    "grade_mean": 0.6666666666666666,
+    "category": "Mild",
+    "row": 241,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ]
+  },
+  "SJ2011": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 242,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  "SJ2012": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 243,
+    "ratings": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ2013": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 244,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ7001": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 245,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "ST1001": {
+    "grade_mean": 0.16666666666666666,
+    "category": "Normal",
+    "row": 246,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "ST2004 ": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 247,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ2014": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 248,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ2015": {
+    "grade_mean": 0.375,
+    "category": "Normal",
+    "row": 249,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ2016": {
+    "grade_mean": 0.875,
+    "category": "Mild",
+    "row": 250,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      2.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ2017": {
+    "grade_mean": 0.625,
+    "category": "Mild",
+    "row": 251,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ30001": {
+    "grade_mean": 1.625,
+    "category": "Moderate",
+    "row": 252,
+    "ratings": [
+      2.0,
+      2.0,
+      0.0,
+      2.0,
+      2.0,
+      2.0,
+      1.0,
+      2.0
+    ]
+  },
+  "SJ30002": {
+    "grade_mean": 0.75,
+    "category": "Mild",
+    "row": 253,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ30003": {
+    "grade_mean": 0.625,
+    "category": "Mild",
+    "row": 254,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ30004": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 255,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ30005": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 256,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ30006": {
+    "grade_mean": 0.875,
+    "category": "Mild",
+    "row": 257,
+    "ratings": [
+      1.0,
+      2.0,
+      0.0,
+      0.0,
+      2.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ30007": {
+    "grade_mean": 0.75,
+    "category": "Mild",
+    "row": 258,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ30008": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 259,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ4001": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 260,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ4002": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 261,
+    "ratings": [
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ4003": {
+    "grade_mean": 0.625,
+    "category": "Mild",
+    "row": 262,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      2.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ4004": {
+    "grade_mean": 0.375,
+    "category": "Normal",
+    "row": 263,
+    "ratings": [
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ4005": {
+    "grade_mean": 1.125,
+    "category": "Mild",
+    "row": 264,
+    "ratings": [
+      2.0,
+      1.0,
+      0.0,
+      2.0,
+      1.0,
+      1.0,
+      0.0,
+      2.0
+    ]
+  },
+  "SJ4006": {
+    "grade_mean": 0.625,
+    "category": "Mild",
+    "row": 265,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ4007": {
+    "grade_mean": 0.875,
+    "category": "Mild",
+    "row": 266,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      2.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ4008": {
+    "grade_mean": 0.625,
+    "category": "Mild",
+    "row": 267,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ4009": {
+    "grade_mean": 0.625,
+    "category": "Mild",
+    "row": 268,
+    "ratings": [
+      0.0,
+      2.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ5001": {
+    "grade_mean": 1.25,
+    "category": "Mild",
+    "row": 269,
+    "ratings": [
+      1.0,
+      2.0,
+      1.0,
+      2.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "SJ5002": {
+    "grade_mean": 1.25,
+    "category": "Mild",
+    "row": 270,
+    "ratings": [
+      1.0,
+      2.0,
+      1.0,
+      2.0,
+      1.0,
+      1.0,
+      0.0,
+      2.0
+    ]
+  },
+  "SJ5003": {
+    "grade_mean": 0.125,
+    "category": "Normal",
+    "row": 271,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ5004": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 272,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ5005": {
+    "grade_mean": 0.375,
+    "category": "Normal",
+    "row": 273,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ5006": {
+    "grade_mean": 0.875,
+    "category": "Mild",
+    "row": 274,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "SJ5007": {
+    "grade_mean": 0.125,
+    "category": "Normal",
+    "row": 275,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ5008 ": {
+    "grade_mean": 0.125,
+    "category": "Normal",
+    "row": 276,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ5009": {
+    "grade_mean": 0.375,
+    "category": "Normal",
+    "row": 277,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      2.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ5010": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 278,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ5011": {
+    "grade_mean": 1.25,
+    "category": "Mild",
+    "row": 279,
+    "ratings": [
+      1.0,
+      2.0,
+      0.0,
+      2.0,
+      1.0,
+      2.0,
+      1.0,
+      1.0
+    ]
+  },
+  "SJ5012": {
+    "grade_mean": 1.125,
+    "category": "Mild",
+    "row": 280,
+    "ratings": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      1.0
+    ]
+  },
+  "SJ5014 ": {
+    "grade_mean": 0.625,
+    "category": "Mild",
+    "row": 281,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ5015": {
+    "grade_mean": 0.375,
+    "category": "Normal",
+    "row": 282,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ5016": {
+    "grade_mean": 0.875,
+    "category": "Mild",
+    "row": 283,
+    "ratings": [
+      1.0,
+      2.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ5017 ": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 284,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ5018": {
+    "grade_mean": 0.375,
+    "category": "Normal",
+    "row": 285,
+    "ratings": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ5019": {
+    "grade_mean": 0.75,
+    "category": "Mild",
+    "row": 286,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ5020": {
+    "grade_mean": 0.25,
+    "category": "Normal",
+    "row": 287,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ5021": {
+    "grade_mean": 0.75,
+    "category": "Mild",
+    "row": 288,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ6001": {
+    "grade_mean": 0.25,
+    "category": "Normal",
+    "row": 289,
+    "ratings": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ6002": {
+    "grade_mean": 0.25,
+    "category": "Normal",
+    "row": 290,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ6003": {
+    "grade_mean": 0.375,
+    "category": "Normal",
+    "row": 291,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ6004": {
+    "grade_mean": 1.125,
+    "category": "Mild",
+    "row": 292,
+    "ratings": [
+      2.0,
+      1.0,
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ6005": {
+    "grade_mean": 1.875,
+    "category": "Moderate",
+    "row": 293,
+    "ratings": [
+      2.0,
+      2.0,
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  "SJ6006": {
+    "grade_mean": 0.0,
+    "category": "Normal",
+    "row": 294,
+    "ratings": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "SJ6007 ": {
+    "grade_mean": 0.875,
+    "category": "Mild",
+    "row": 295,
+    "ratings": [
+      2.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  "SJ6008": {
+    "grade_mean": 0.5,
+    "category": "Normal",
+    "row": 296,
+    "ratings": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "NYU1029": {
+    "grade_mean": 2.125,
+    "category": "Moderate",
+    "row": 297,
+    "ratings": [
+      2.0,
+      3.0,
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      3.0
+    ]
+  }
+}
