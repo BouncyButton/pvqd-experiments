@@ -1,0 +1,14 @@
+# Python 3.10-3.13. Install inside the Colab runtime, not the original project env.
+# Keep TorchAudio below 2.9 for SpeechBrain 1.0.3's audio-backend API.
+torch==2.8.0
+torchaudio==2.8.0
+torchvision==0.23.0
+speechbrain==1.0.3
+numpy==2.2.6
+scipy==1.15.3
+pandas==2.2.3
+soundfile==0.13.1
+openpyxl==3.1.5
+scikit-learn==1.6.1
+tqdm==4.67.1
+huggingface-hub>=0.28.1,<1.0
